@@ -1,4 +1,4 @@
-# Social Media Impact on Suicide Rates: An Exploratory Data Analysis
+# Social Media Impact on Suicide Rates
 
 ## 📜 Introduction
 This project explores the impact of social media usage on suicide rates from 2010 onwards. Using data on demographic factors, social media platform growth, and suicide rate trends, the analysis aims to uncover potential correlations and trends. This sensitive study provides valuable insights into how societal shifts in digital engagement may influence mental health.
